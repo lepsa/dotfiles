@@ -1,0 +1,1 @@
+/home/owen/.nvimrc
